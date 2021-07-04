@@ -1,0 +1,27 @@
+header{
+  background-color:springgreen;
+  padding: 20px;
+
+}
+nav{
+    background-color:coral;
+    padding: 10px;
+}
+section{
+    grid-column: 1/4 ;
+    background-color:fuchsia;
+    padding: 80px;
+}
+aside{
+    grid-column: 4/5;
+     background-color:goldenrod;
+     padding: 10px;
+}
+footer{
+     background-color:rebeccapurple;
+     padding: 20px;
+}
+div{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
