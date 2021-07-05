@@ -9,7 +9,7 @@ nav{
 }
 section{
     grid-column: 1/4 ;
-    background-color:fuchsia;
+    background-color:wheat;
     padding: 80px;
 }
 aside{
